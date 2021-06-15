@@ -18,11 +18,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/siraz_khan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siraz_khan_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/siraz-khan-5685b5b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siraz-khan-5685b5b0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/siraz-khan-5685b5b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siraz-khan-5685b5b0" height="30" width="40" /></a>
 <a href="https://fb.com/imsirazkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imsirazkhan" height="30" width="40" /></a>
 <a href="https://instagram.com/siraz_khan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siraz_khan_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/future code tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="future code tech" height="30" width="40" /></a>
-<a href="https://discord.gg/siraz_khan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="siraz_khan_" height="30" width="40" /></a>
+<a href="https://discord.gg/siraz_khan_#0055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="siraz_khan_#0055" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
