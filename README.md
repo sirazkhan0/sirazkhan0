@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **own idea**
 
-- 🌱 I’m currently learning **Dart programming**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sirazkhan0](https://github.com/sirazkhan0)
 
-- 📫 How to reach me **futureztechnical@gmail.com**
+- 📫 How to reach me **mdsirazhussain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
