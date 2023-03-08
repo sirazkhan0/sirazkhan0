@@ -1,17 +1,11 @@
 # I'm [siraz](https://github.com/sirazkhan0)👋
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;)](https://git.io/typing-svg)
-<h2 align="center">
-<img src="assets/party-parrot.gif" width="31" height="31"/>
-<img src="assets/party-parrot.gif" width="31" height="31"/>
-<img src="assets/party-parrot.gif" width="31" height="31"/>
-<img src="https://komarev.com/ghpvc/?username=sirazkhan0&&style=round-square" align="center" />
-<img src="assets/party-parrot-2.gif" width="31" height="31"/>
-<img src="assets/party-parrot-2.gif" width="31" height="31"/>
-<img src="assets/party-parrot-2.gif" width="31" height="31"/>
-</h2>
 
-<img align="right" height="250" width="400" alt="GIF" src="assets/giphy.gif"/>
+<img src="https://komarev.com/ghpvc/?username=sirazkhan0&&style=round-square" align="center" />
+
+
+<img align="right" height="250" width="400" alt="GIF" src="https://th.bing.com/th/id/R.c81d4bf64815f6769cab842e08c28b08?rik=iu%2fTc5D0dq8yNQ&riu=http%3a%2f%2fwww.webcup.fr%2fwp-content%2fuploads%2f2018%2f11%2fgiphy.gif&ehk=%2fwwDsSWKR6IA6n8HGBXer6mG4EH9YeM5%2fhGO1%2fXs6N8%3d&risl=&pid=ImgRaw&r=0"/>
 
 ## About me
 ### 📚 I'm a full-stack web developer
@@ -33,6 +27,9 @@
 
 
 ## 🛠️Skills
+### I Code in
+
+![I Code in](https://skillicons.dev/icons?i=python,js)
 
 ### Frontend
 ![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux)
