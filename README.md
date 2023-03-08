@@ -52,7 +52,7 @@
 </div>
 
 <div align="center" width="65%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sirazkhan0&theme=radical&hide_border=false" alt="keshav github streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sirazkhan0&theme=radical&hide_border=false" alt="">
 </div>
 
 <!-- ## 📊 GitHub Stats:
