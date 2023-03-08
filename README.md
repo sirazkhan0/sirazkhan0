@@ -38,7 +38,7 @@
 ![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux)
 
 ### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,appwrite,aws,gcp)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,aws,gcp)
 
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,docker,vscode,idea)
