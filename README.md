@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sirazkhan0](https://github.com/sirazkhan0)
 
-- 📫 How to reach me **mdsirazhussain@gmail.com
+- 📫 How to reach me **mdsirazhussain@gmail.com**
 
 
 <br>
