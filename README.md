@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
 
-<a href="https://www.youtube.com/channel/techflynix">
+<a href="https://www.youtube.com/@techflynix">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="YouTube" alt="YouTube"/>
 </a>
 <br />
